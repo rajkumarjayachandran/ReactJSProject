@@ -13,7 +13,7 @@ const Helloworld: React.FC = () => {
             {/* Second Layout */}
             <div style={{ border: '1px solid black', padding: '20px', width: '40%' }}>
                 <h2>Second Layout</h2>
-                <label htmlFor="secondInput">Second Input:</label>
+                <label htmlFor="secondInputlabel">Second Input:</label>gi
                 <input id="secondInput" type="text" style={{ display: 'block', marginTop: '10px' }} />
             </div>
         </div>
