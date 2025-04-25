@@ -15,7 +15,7 @@ export const sculptureList = [{
     artist: 'Unknown Artist',
     description: 'Located on the Easter Island, there are 1,000 moai, or extant monumental statues, created by the early Rapa Nui people, which some believe represented deified ancestors.'
  }, {
-  name: 'Koi koi',
+  name: 'Koi koi1',
   artist: 'New join Artist',
   description: 'Located on the Easter Island, there are 1,000 moai, or extant monumental statues, created by the early Rapa Nui people, which some believe represented deified ancestors.'
 }];
